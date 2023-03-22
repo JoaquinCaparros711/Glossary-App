@@ -1,0 +1,29 @@
+.color1 {color: #c4c5ff;}
+.color2 {color: #f3edff;}
+.color3 {color: #161934;}
+.color4 {color: #77767c;}
+.color5 {color: #e2e2e2;}
+
+body {
+    background-color: #f3edff;
+}
+
+nav {
+    background-color: #c4c5ff;
+}
+
+.btn-save {
+    background-color: #161934;
+    color: #c4c5ff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 10px 40px 10px 40px;
+    transition: 0.5s;
+}
+
+.btn-save:hover {
+    background-color: #c4c5ff;
+    color: #161934;
+}
+
